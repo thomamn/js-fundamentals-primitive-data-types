@@ -14,3 +14,7 @@ module.exports = {
     'prettier/prettier': ['error']
   }
 }
+
+"rules": {
+  "no-unused-vars": "off"
+}
